@@ -1,0 +1,2 @@
+# drawio
+Schemat blokowy Hotelowy
